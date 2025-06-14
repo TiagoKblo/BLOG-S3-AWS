@@ -133,7 +133,7 @@ Total estimado: **R$ 0,00**
 
 ## 🎥 Vídeo Pitch
 
-👉 Link para vídeo explicando a arquitetura, decisões e custo (adicionar link):  
+👉 Link para vídeo explicando a arquitetura, decisões e custo:  
 [YouTube Pitch - Blog Estático AWS](https://link-do-video)
 
 ---
