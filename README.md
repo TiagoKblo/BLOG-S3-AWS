@@ -46,7 +46,7 @@ O comando `npx next export` gera a pasta `out/` com os arquivos HTML estáticos.
 
 ### 2. Upload para o S3
 
-- Criado bucket com nome **exato** do domínio: `meusitefatec.tk`
+- Criado bucket com nome **exato** : `site-estatico-2025-fatec`
 - Ativado static website hosting em `index.html`
 - Realizado upload da pasta `out/` (conteúdo direto)
 
@@ -113,13 +113,6 @@ Navegador ─► DNS Route 53 ─► CloudFront ─► Bucket S3 (Website Hostin
 | Route 53     | 1 zona + 1 domínio         | R$ 0 (somente se domínio Freenom) |
 
 Total estimado: **R$ 0,00**
-
----
-
-## 🎥 Vídeo Pitch
-
-👉 Link para vídeo explicando a arquitetura, decisões e custo:  
-[YouTube Pitch - Blog Estático AWS](https://link-do-video)
 
 ---
 
